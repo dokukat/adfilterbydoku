@@ -9,7 +9,7 @@
 
 ||hentai^$important
 ||*porn*
-||*manga*
+!||*manga*
 ||*kanajo*
 ||*11328.peta2.jp*
 ||*zatsubitown.com*
