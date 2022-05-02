@@ -7,9 +7,12 @@
 ! 
 ! 
 
+!||*manga*
+!||amazon.com^$important
+!||amazon.co.jp^$important
+
 ||hentai^$important
 ||*porn*
-!||*manga*
 ||*kanajo*
 ||*11328.peta2.jp*
 ||*zatsubitown.com*
@@ -161,9 +164,6 @@
 ||*ntr-ch.com*
 ||*erobanach.com*
 ||*gay-taikendan.com*
-
-!||amazon.com^$important
-!||amazon.co.jp^$important
 
 ||device-messaging-na.amazon.com^$important
 ||kindle-digital-delivery.amazon.com^$important
